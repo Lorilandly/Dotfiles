@@ -1,3 +1,3 @@
 bindkey -v
 
-PROMPT='%F{133}%n@%m%f %~ > '
+PROMPT='%F{5}%n@%m%f %F{6}%~%f > '

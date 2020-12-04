@@ -88,3 +88,5 @@ colorscheme evening
 set wildmenu 
 exec"set listchars=tab:\uBB-,nbsp:~,trail:\uB7"
 set list
+
+:imap œ <ESC>
